@@ -10,4 +10,6 @@ https://www.programiz.com/java-programming/examples/gcd-hcf-recursion
 ## Geeks for Geeks
 https://www.geeksforgeeks.org/c-program-find-gcd-hcf-two-numbers/
 
-##
+## JavaScript
+https://repl.it/repls/BackSelfreliantString 
+
